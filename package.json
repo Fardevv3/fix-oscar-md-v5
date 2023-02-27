@@ -1,7 +1,7 @@
 {
-    "name": "Maxxy-md",
+    "name": "Ray-md",
     "version": "1.0.2",
-    "description": "Maxxy Multi Device",
+    "description": "Ray Multi Device",
     "depecrated": false,
     "main": "index.js",
     "directories": {
